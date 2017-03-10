@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/sarathi0333/myFirstChatBot/issues"
   },
-  "homepage": "https://github.com/sarathi0333/myFirstChatBot#readme"
+  "homepage": "https://github.com/sarathi0333/myFirstChatBot#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
