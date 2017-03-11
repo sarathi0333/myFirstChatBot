@@ -4,6 +4,7 @@
   "description": "chatbot trial",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,6 +22,7 @@
   },
   "homepage": "https://github.com/sarathi0333/myFirstChatBot#readme",
   "dependencies": {
+    "body-parser": "^1.17.1",
     "express": "^4.15.2"
   }
 }
